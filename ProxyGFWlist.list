@@ -1,17 +1,4 @@
 # 代理列表
-# MyList
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,ipify.org
-DOMAIN-KEYWORD,tiaokan
-DOMAIN-SUFFIX,laowang.vip
-DOMAIN-KEYWORD,aikanmei
-DOMAIN-KEYWORD,sanfen
-DOMAIN-SUFFIX,livinghochiminh.com
-DOMAIN-SUFFIX,stripchat.com
-DOMAIN-SUFFIX,ip.sb
-DOMAIN-SUFFIX,hjd2048.com
-DOMAIN-SUFFIX,imagetwist.com
-
 
 # 国外域名
 DOMAIN-SUFFIX,eu
