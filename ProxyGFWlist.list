@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,imagetwist.com
+DOMAIN-SUFFIX,sanfen.co
 
 # 国外域名
 DOMAIN-SUFFIX,eu
@@ -24,7 +25,6 @@ DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,ca
 
 # 国外域名关键字
-DOMAIN-KEYWORD,sanfen
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,abema
 DOMAIN-KEYWORD,appledaily
