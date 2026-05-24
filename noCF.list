@@ -1,2 +1,6 @@
 # CF无法直接访问的地址
 DOMAIN-SUFFIX,btdig.com
+
+
+@CLS
+DOMAIN-SUFFIX,csl.prod.ondemandconnectivity.com
