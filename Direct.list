@@ -22,6 +22,12 @@ DOMAIN-SUFFIX,vlan5.com
 #DOMAIN-SUFFIX,volces.com
 
 
-#证券
+#复星证券
 #DOMAIN-KEYWORD,fosunhanig
 #DOMAIN-SUFFIX,itigertech.com
+
+
+
+# === Charles Schwab 嘉信证券专属规则 ===
+#DOMAIN-KEYWORD,schwab
+#DOMAIN-SUFFIX,adobedc.net
