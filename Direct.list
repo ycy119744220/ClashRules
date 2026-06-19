@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,vlan5.com
 # === Charles Schwab 嘉信证券专属规则 ===
 #DOMAIN-KEYWORD,schwab
 #DOMAIN-SUFFIX,adobedc.net
+
+#银行相关
+DOMAIN-SUFFIX,arcot.com
