@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,vlan5.com
 DOMAIN-SUFFIX,fotechwealth.com
 DOMAIN-SUFFIX,fosunwealth.com
 DOMAIN-SUFFIX,fosunhani.com
+DOMAIN-SUFFIX,fswchains.com
 DOMAIN-KEYWORD,fotechwealth
 DOMAIN-KEYWORD,mfosunhani
 DOMAIN-KEYWORD,fosunhani
@@ -26,6 +27,10 @@ DOMAIN-KEYWORD,fosun
 # 致富证券：覆盖致富集团、致富交易平台与品牌英文名兜底。
 DOMAIN-SUFFIX,chiefgroup.com.hk
 DOMAIN-SUFFIX,chieftrade.com
+DOMAIN-SUFFIX,engagelab.com
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,cg1979.com
+DOMAIN-SUFFIX,zft2025.com
 DOMAIN-KEYWORD,chiefgroup
 DOMAIN-KEYWORD,chieftrade
 DOMAIN-KEYWORD,chieftrader
