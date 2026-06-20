@@ -46,17 +46,36 @@ DOMAIN-KEYWORD,phk
 
 # ================================= 银行相关 ==============================#
 
+# 兴业银行
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,cib.cn
+DOMAIN-SUFFIX,cib.com
+DOMAIN-KEYWORD,cib
+
 # 3DS验证
 DOMAIN-SUFFIX,arcot.com
+
+# 香港理慧银行 livi bank
+DOMAIN-SUFFIX,livi.com.hk
+DOMAIN-SUFFIX,livi.bank
+DOMAIN-SUFFIX,livibank.com
+DOMAIN-KEYWORD,livibank
+DOMAIN-KEYWORD,livi
 
 # 中信国际
 DOMAIN-SUFFIX,cncbinternational.com 
 
 # 蚂蚁银行
 DOMAIN-SUFFIX,antbank.hk
+DOMAIN-KEYWORD,antbank
 
 # 象象银行
 DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,airstar.bank
+DOMAIN-KEYWORD,airstarbank
+DOMAIN-KEYWORD,airstar
+DOMAIN-SUFFIX,elebank.com
+DOMAIN-KEYWORD,elebank
 
 # 南阳银行
 DOMAIN-SUFFIX,ncb.com.hk
@@ -68,9 +87,14 @@ OMAIN-SUFFIX,cmbwinglungbank.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hk.hsbc.com
 DOMAIN-SUFFIX,vam-hk.cloud1.vv1865.com
+DOMAIN-SUFFIX,hsbc.hk
+DOMAIN-SUFFIX,hsbchk.com
+DOMAIN-KEYWORD,hsbc
 
 # 恒生银行 (Hang Seng Bank)
 DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hangseng.com.hk
+DOMAIN-KEYWORD,hangseng
 
 # 中国银行(香港) (Bank of China Hong Kong)
 DOMAIN-SUFFIX,bank-of-china.com
@@ -95,6 +119,9 @@ DOMAIN-SUFFIX,bocigroup.com
 DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bocservices.com.cn
 DOMAIN-SUFFIX,ftcwifi.com
+DOMAIN-SUFFIX,boc.hk
+DOMAIN-SUFFIX,bochk.hk
+DOMAIN-KEYWORD,bochk
 
 # 东亚银行 (Bank of East Asia)
 DOMAIN-SUFFIX,hkbea.com
@@ -119,6 +146,10 @@ DOMAIN-SUFFIX,online.asia.ccb.com
 # 华侨银行 (OCBC)
 DOMAIN-SUFFIX,ocbc.com.hk
 DOMAIN-SUFFIX,ocbcwhhk.com
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-SUFFIX,ocbc.com.sg
+DOMAIN-SUFFIX,ocbc.sg
+DOMAIN-KEYWORD,ocbc
 
 # 大新银行 (Dah Sing Bank)
 DOMAIN-SUFFIX,dahsing.com
@@ -128,13 +159,27 @@ DOMAIN-SUFFIX,bank.za.group
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
 DOMAIN-SUFFIX,cdn.zaticdn.com 
+DOMAIN-SUFFIX,zabank.com
+DOMAIN-SUFFIX,za.bank
+DOMAIN-KEYWORD,zabank
 
 
 # WeLab Bank 汇立银行
 DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,welab.co
+DOMAIN-SUFFIX,welabbank.com
+DOMAIN-KEYWORD,welabbank
+DOMAIN-KEYWORD,welab
 
 # Fusion Bank 富融银行
 DOMAIN-SUFFIX,fusionbank.com
 
 # Mox Bank
 DOMAIN-SUFFIX,mox.com
+
+# iFast银行
+DOMAIN-SUFFIX,ifast.com
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifast.com.sg
+DOMAIN-SUFFIX,ifastbank.com
+DOMAIN-KEYWORD,ifast
