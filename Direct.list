@@ -44,6 +44,15 @@ DOMAIN-KEYWORD,phillipfunds
 DOMAIN-KEYWORD,cyberquote
 DOMAIN-KEYWORD,phk
 
+# 盈立香港 / 盈立新加坡 / uSMART
+DOMAIN-SUFFIX,usmart.sg
+DOMAIN-SUFFIX,usmartsecurities.com
+DOMAIN-SUFFIX,global.usmartsecurities.com
+DOMAIN-SUFFIX,usmart-app.com
+DOMAIN-SUFFIX,usmartglobal.com
+DOMAIN-SUFFIX,usmart8.com
+DOMAIN-KEYWORD,usmart
+
 # ================================= 银行相关 ==============================#
 
 # 兴业银行
