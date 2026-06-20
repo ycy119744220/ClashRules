@@ -24,19 +24,6 @@ DOMAIN-KEYWORD,fosunwealth
 DOMAIN-KEYWORD,xingwealth
 DOMAIN-KEYWORD,fosun
 
-# 致富证券：覆盖致富集团、致富交易平台与品牌英文名兜底。
-DOMAIN-SUFFIX,chiefgroup.com.hk
-DOMAIN-SUFFIX,chieftrade.com
-DOMAIN-SUFFIX,engagelab.com
-DOMAIN-SUFFIX,volces.com
-DOMAIN-SUFFIX,cg1979.com
-DOMAIN-SUFFIX,zft2025.com
-DOMAIN-KEYWORD,chiefgroup
-DOMAIN-KEYWORD,chieftrade
-DOMAIN-KEYWORD,chieftrader
-DOMAIN-KEYWORD,chiefsecurities
-DOMAIN-KEYWORD,chief
-
 # 辉立证券：覆盖 POEMS、Phillip HK、辉立资本与相关报价基础设施。
 DOMAIN-SUFFIX,poems.com.hk
 DOMAIN-SUFFIX,phillip.com.hk
