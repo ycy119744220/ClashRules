@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,mukaku.com
 DOMAIN-SUFFIX,vlan5.com
 #DOMAIN-KEYWORD,wise
 
-
+# ================================= 券商相关 ==============================#
 #致富证券
 #DOMAIN-KEYWORD,chief
 #DOMAIN-SUFFIX,zft2000.com
@@ -26,15 +26,99 @@ DOMAIN-SUFFIX,vlan5.com
 #DOMAIN-KEYWORD,fosunhanig
 #DOMAIN-SUFFIX,itigertech.com
 
-
-
 # === Charles Schwab 嘉信证券专属规则 ===
 #DOMAIN-KEYWORD,schwab
 #DOMAIN-SUFFIX,adobedc.net
 
-#银行相关
+# ================================= 银行相关 ==============================#
 DOMAIN-SUFFIX,arcot.com
+
+# 中信国际
+DOMAIN-SUFFIX,cncbinternational.com 
+
+# 蚂蚁银行
+DOMAIN-SUFFIX,antbank.hk
+
+# 象象银行
+DOMAIN-SUFFIX,airstarbank.com
+
+# 南阳银行
+DOMAIN-SUFFIX,ncb.com.hk
+
+# 招商永隆
+OMAIN-SUFFIX,cmbwinglungbank.com
+
+# 汇丰银行 (HSBC)
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hk.hsbc.com
+DOMAIN-SUFFIX,vam-hk.cloud1.vv1865.com
+
+# 恒生银行 (Hang Seng Bank)
+DOMAIN-SUFFIX,hangseng.com
+
+# 中国银行(香港) (Bank of China Hong Kong)
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bochkonline.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn
+DOMAIN-SUFFIX,ftcwifi.com
+
+# 东亚银行 (Bank of East Asia)
+DOMAIN-SUFFIX,hkbea.com
+
+# 渣打银行 (Standard Chartered)
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,sc.com.hk
+
+# 花旗银行 (Citibank)
+DOMAIN-SUFFIX,citibank.com.hk
+
+# 星展银行 (DBS Bank)
+DOMAIN-SUFFIX,dbs.com.hk
+
+# 工银亚洲 (ICBC Asia)
+DOMAIN-SUFFIX,icbcasia.com
+
+# 建设银行(亚洲) (CCB Asia)
+DOMAIN-SUFFIX,asia.ccb.com
+DOMAIN-SUFFIX,online.asia.ccb.com
+
+# 华侨银行 (OCBC)
+DOMAIN-SUFFIX,ocbc.com.hk
+DOMAIN-SUFFIX,ocbcwhhk.com
+
+# 大新银行 (Dah Sing Bank)
+DOMAIN-SUFFIX,dahsing.com
+
+# ZA Bank 众安银行
+DOMAIN-SUFFIX,bank.za.group
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
-DOMAIN-SUFFIX,antbank.hk
-DOMAIN-SUFFIX,airstarbank.com
+DOMAIN-SUFFIX,cdn.zaticdn.com 
+
+
+# WeLab Bank 汇立银行
+DOMAIN-SUFFIX,welab.bank
+
+# Fusion Bank 富融银行
+DOMAIN-SUFFIX,fusionbank.com
+
+# Mox Bank
+DOMAIN-SUFFIX,mox.com
