@@ -55,6 +55,11 @@ DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longbridge.sg
 DOMAIN-SUFFIX,longbridge.cn
 DOMAIN-SUFFIX,longportapp.cn
+DOMAIN-SUFFIX,longportwhale.com
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,longport
 
 # 富途
 DOMAIN-SUFFIX,futuholdings.com
