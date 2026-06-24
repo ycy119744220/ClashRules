@@ -55,6 +55,7 @@ DOMAIN-KEYWORD,cib
 
 # 3DS验证
 DOMAIN-SUFFIX,arcot.com
+DOMAIN-SUFFIX,cardinalcommerce.com
 
 # 香港理慧银行 livi bank
 DOMAIN-SUFFIX,livi.com.hk
