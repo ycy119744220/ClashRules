@@ -125,6 +125,20 @@ DOMAIN-KEYWORD,ibkr
 DOMAIN-KEYWORD,interactivebrokers
 
 
+# 嘉信
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,charlesschwab.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabnetwork.com
+DOMAIN-SUFFIX,ameritrade.com
+DOMAIN-SUFFIX,thinkorswim.com
+DOMAIN-SUFFIX,tdameritrade.com
+DOMAIN-SUFFIX,schwab.com
+HOST,tosmediaserver.schwab.com
+DOMAIN-KEYWORD,schwab
+DOMAIN-KEYWORD,thinkorswim
 
 # BBAE
 DOMAIN-SUFFIX,bbae.com
