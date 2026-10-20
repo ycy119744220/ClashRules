@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,vlan5.com
 DOMAIN-SUFFIX,eastmoney.com
 
 # ================================= 券商相关 ==============================#
+# 富途API
+DOMAIN-SUFFIX,futunn.com
+
+
 
 # 复星证券 / 复星财富：覆盖当前复星财富、旧复星恒利命名、星财富与移动端交易入口。
 DOMAIN-SUFFIX,fotechwealth.com
