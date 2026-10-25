@@ -56,7 +56,6 @@ DOMAIN-KEYWORD,usmart
 DOMAIN-SUFFIX,cib.com.cn
 DOMAIN-SUFFIX,cib.cn
 DOMAIN-SUFFIX,cib.com
-DOMAIN-KEYWORD,cib
 
 # 3DS验证
 DOMAIN-SUFFIX,arcot.com
@@ -70,7 +69,7 @@ DOMAIN-KEYWORD,livibank
 DOMAIN-KEYWORD,livi
 
 # 中信国际
-DOMAIN-SUFFIX,cncbinternational.com 
+DOMAIN-SUFFIX,cncbinternational.com
 
 # 蚂蚁银行
 DOMAIN-SUFFIX,antbank.hk
@@ -88,7 +87,7 @@ DOMAIN-KEYWORD,elebank
 DOMAIN-SUFFIX,ncb.com.hk
 
 # 招商永隆
-OMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,cmbwinglungbank.com
 
 # 汇丰银行 (HSBC)
 DOMAIN-SUFFIX,hsbc.com.hk
@@ -165,7 +164,7 @@ DOMAIN-SUFFIX,dahsing.com
 DOMAIN-SUFFIX,bank.za.group
 DOMAIN-SUFFIX,za.group
 DOMAIN-SUFFIX,zajourney.com
-DOMAIN-SUFFIX,cdn.zaticdn.com 
+DOMAIN-SUFFIX,cdn.zaticdn.com
 DOMAIN-SUFFIX,zabank.com
 DOMAIN-SUFFIX,za.bank
 DOMAIN-KEYWORD,zabank
